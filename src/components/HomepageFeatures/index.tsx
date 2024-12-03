@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Lorem Ipsum
+        Mainly covering Data and Software Engineering topics. Focused on the thing I learn or use on a daily base.
       </>
     ),
   },
@@ -23,8 +23,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I'll try to add not only technology-related posts but also write about some of my hobbies. 
+        Mainly BoardGames and VideoGames.
       </>
     ),
   },
@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-       Games or whatever
+       On a less frecuent note, this will be my GoTo place to write about anything I like. After all, this is my personal blog &#128520;
       </>
     ),
   },

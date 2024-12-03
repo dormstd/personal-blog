@@ -13,12 +13,12 @@ argo:
   permalink: /argocd
   description: Posts related to argocd
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+hobbies:
+  label: Hobbies
+  permalink: /hobbies
+  description: Hobbies
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+personal:
+  label: personal
+  permalink: /personal
+  description: personal
