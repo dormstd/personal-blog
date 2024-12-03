@@ -22,3 +22,8 @@ personal:
   label: personal
   permalink: /personal
   description: personal
+
+technology:
+  label: Technology
+  permalink: /technology
+  description: technology

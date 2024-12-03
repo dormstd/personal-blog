@@ -1,6 +1,6 @@
 ---
-slug: hello-world
-title: Hello World!
+slug: hellow-world
+title: Hellow World!
 authors: ricardo
 tags: [personal]
 ---
