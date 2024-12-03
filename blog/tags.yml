@@ -1,0 +1,24 @@
+databricks:
+  label: Databricks
+  permalink: /databricks
+  description: Posts related to databricks
+
+kubernetes:
+  label: Kubernetes
+  permalink: /kubernetes
+  description: Posts related to kubernetes
+
+argo:
+  label: ArgoCD
+  permalink: /argocd
+  description: Posts related to argocd
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
