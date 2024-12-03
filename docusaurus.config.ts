@@ -82,7 +82,7 @@ const config: Config = {
           items: [
             {
               label: 'LinkedIn',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://www.linkedin.com/in/ricardoruizsaiz/?locale=en_US',
             },
             {
               label: 'X',
